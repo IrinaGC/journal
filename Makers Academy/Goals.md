@@ -4,8 +4,8 @@
 
 - [x] Set up a journal repo on local and GitHub
 - [x] Learn who to use Markdown for note taking - find cheetsheet
-- [] Start Week4 notes .md file
-- [] Take at least 3 lines of notes every day this week
+- [x] Start Week4 notes .md file
+- [ ] Take at least 3 lines of notes every day this week
 
 ## Test-Driven Development
 
@@ -21,12 +21,11 @@
 - [ ] Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 - [ ] Break one class into two classes that work together, while maintaining test coverage
 
-### The how to
+**Actions for ODD**
 
 - [ ] Watch YouTube video about OOD
 - [ ] Read about Encapsulation
 - [ ] Do Encapsulation exercise
-- [ ]
 
 ## Reflection
 
